@@ -1,0 +1,23 @@
+
+body{
+    background-image: url(../img/Pointing.png.png);
+}
+
+.row{
+    color:bisque;
+    font-size: 60px;
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 150px;
+    margin-bottom: 120px;
+    text-align: center;
+ }
+
+ H1{
+    color:bisque;
+     font-size: 60px;
+     font-family: "Protest Strike", sans-serif;
+     font-weight: 400;
+     font-style: normal;
+ }
